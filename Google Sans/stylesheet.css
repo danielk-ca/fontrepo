@@ -1,6 +1,7 @@
 @font-face {
   font-family: 'Google Sans';
     src: url('fonts/GoogleSans-MediumItalic.woff2') format('woff2'),
+    url('https://raw.githubusercontent.com/danielk-ca/fontrepo/main/Google%20Sans/GoogleSans-Bold.woff2') format('woff2'),
     url('fonts/GoogleSans-MediumItalic.woff') format('woff'),
     url('fonts/GoogleSans-MediumItalic.ttf') format('truetype');
     font-weight: 500;
@@ -10,6 +11,7 @@
 @font-face {
   font-family: 'Google Sans';
     src: url('fonts/GoogleSans-Bold.woff2') format('woff2'),
+    url('https://raw.githubusercontent.com/danielk-ca/fontrepo/main/Google%20Sans/GoogleSans-Bold.woff2') format('woff2'),
     url('fonts/GoogleSans-Bold.woff') format('woff'),
     url('fonts/GoogleSans-Bold.ttf') format('truetype');
     font-weight: bold;
@@ -19,6 +21,7 @@
 @font-face {
   font-family: 'Google Sans';
     src: url('fonts/GoogleSans-Italic.woff2') format('woff2'),
+    url('https://raw.githubusercontent.com/danielk-ca/fontrepo/main/Google%20Sans/GoogleSans-Italic.woff2') format('woff2'),
     url('fonts/GoogleSans-Italic.woff') format('woff'),
     url('fonts/GoogleSans-Italic.ttf') format('truetype');
     font-weight: normal;
@@ -28,6 +31,7 @@
 @font-face {
   font-family: 'Google Sans';
     src: url('fonts/GoogleSans-Medium.woff2') format('woff2'),
+    url('https://raw.githubusercontent.com/danielk-ca/fontrepo/main/Google%20Sans/GoogleSans-Medium.woff2') format('woff2'),
     url('fonts/GoogleSans-Medium.woff') format('woff'),
     url('fonts/GoogleSans-Medium.ttf') format('truetype');
     font-weight: 500;
@@ -37,6 +41,7 @@
 @font-face {
   font-family: 'Google Sans';
     src: url('fonts/GoogleSans-Regular.woff2') format('woff2'),
+    url('https://raw.githubusercontent.com/danielk-ca/fontrepo/main/Google%20Sans/GoogleSans-Regular.woff2') format('woff2'),
     url('fonts/GoogleSans-Regular.woff') format('woff'),
     url('fonts/GoogleSans-Regular.ttf') format('truetype');
     font-weight: normal;
@@ -45,7 +50,8 @@
 
 @font-face {
   font-family: 'Google Sans';
-    src: url('GoogleSans-BoldItalic.woff2') format('woff2'),
+    src: url('fonts/GoogleSans-BoldItalic.woff2') format('woff2'),
+    url('https://raw.githubusercontent.com/danielk-ca/fontrepo/main/Google%20Sans/GoogleSans-BoldItalic.woff2') format('woff2'),
     url('fonts/GoogleSans-BoldItalic.woff') format('woff'),
     url('fonts/GoogleSans-BoldItalic.ttf') format('truetype');
     font-weight: bold;
